@@ -1,0 +1,2 @@
+# dotfiles
+zsh用
