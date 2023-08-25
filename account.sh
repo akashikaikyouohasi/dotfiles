@@ -7,6 +7,6 @@ case "$1" in
       export AWS_PROFILE=""
     ;;
     *)
-      echo "Please profule name"
+      echo "Please profile name"
     ;;
 esac
