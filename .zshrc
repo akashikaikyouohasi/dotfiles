@@ -1,7 +1,7 @@
 
 
-alias ll='exa -la'
-alias lt='exa -Ta'
+alias ll='eza -la'
+alias lt='eza -Ta'
 alias ltl='lt | less -r'
 alias vimrc='vim ~/.zshrc;source ~/.zshrc'
 
